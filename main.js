@@ -53,7 +53,6 @@ prism.on('dashboardloaded', function(dimension) {
             dash.on('filterschanged', function(dash, update, jaql) {
                 // update filters element to reflect changes
             });
-
             break;
 
         default:
